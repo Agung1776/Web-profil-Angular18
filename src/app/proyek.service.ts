@@ -11,31 +11,31 @@ export class ProyekService {
       judul: 'Express Cleaning',
       tgl: '2022/11/08',
       gambar: 'ExpressCleaning.png',
-      deskripsi: 'Project pertama saya yang saya kerjakan untuk kepentingan tugas sekolah. Saya mengerjakannya sendiri menggunakan HTML, PHP dan CSS. Express cleaning merupakan web laundry yang diperuntukkan untuk kasir dan digunakan untuk memproses pesanan orang secara manual.',
+      deskripsi: 'My first project was Express Cleaning. I made that website as an assignment. It was a laundry website where there was 2 roles, Admin and Cashier. Cashier will take order from costumer and admin can add new cashier and product. It was used to buy product online. I was acting as Full Stack Developer. I used PHP, HTML and CSS to made that website.',
     },
     {
       judul: 'Lakamasu',
       tgl: '2022/11/11',
       gambar: 'Lakamasu.png',
-      deskripsi: 'Project kedua saya yang saya kerjakan untuk kepentingan tugas sekolah. Saya mengerjakannya sendiri menggunakan HTML, PHP dan CSS. Lakamasu merupakan web toko online yang memungkinkan penggunanya untuk memesan barang secara online.',
+      deskripsi: 'My second project was Lakamasu. I made that website as an assignment. It was an online store website. It had 2 roles, User and Admin. Admin can see every user and add more products and User can buy the products and create their own account. It was used to buy product online. I was acting as Full Stack Developer. I used PHP, HTML and CSS to made that website.',
     },
     {
       judul: 'Exam Web',
       tgl: '2023/05/22',
       gambar: 'ExamWeb.png',
-      deskripsi: 'Project ketiga saya adalah Exam web. Saya mengerjakan ini bersama teman saya menggunakan HTML, PHP dan CSS. peran saya adalah membuat proses pengisian soal oleh siswa. Web ini digunakan oleh guru dan siswa sebagai web ujian.',
+      deskripsi: 'My third project was Exam Web. We made that website as an assignment with a team. It was a website for exam. It had 2 roles, User and Teacher. Teacher can see every user’s score and add more assignment and User can do the assignment. It was used to do exam online. I was acting as Backend Developer. We used PHP, HTML and CSS to made that website.',
     },
     {
       judul: 'Web Inventaris',
       tgl: '2023/12/05',
       gambar: 'WebInventaris.png',
-      deskripsi: 'Web inventaris merupakan website yang saya buat untuk kebutuhan kantor magang saya yang masih menghitung inventaris secara manual. Web ini saya buat menggunakan HTML, CSS dan JavaScript. Untuk framework-nya saya menggunakan React.js dan Node.js',
+      deskripsi: 'My fourth project was Web Inventaris. I made that website as an assignment when I was an Intern at the Police Headquarters. It was a website to count inventory. It had 1 role, Admin. Admin can update the quantity of items inside the website and add more items. It was used to count inventory digitally. I was acting as Full Stack Developer. I used React.js, Node.js, JavaScript, HTML and CSS to made that website.',
     },
     {
       judul: 'Web Divtik',
       tgl: '2024/01/29',
       gambar: 'WebDivtik.png',
-      deskripsi: 'Web divtik merupakan website yang saya buat untuk kebutuhan kantor magang saya dikarenakan divisi saya tidak memiliki website. Website ini saya buat untuk memperkenalkan divisi tempat magang saya, Divisi Teknologi Informasi dan Komunikasi Kepolisian Republik Indonesia. Saya membuat website ini menggunakan HTML, CSS dan PHP.',
+      deskripsi: 'My fifth project was Web Divtik. I made that website when I was an intern at the Police Headquarters because of my Division, Information and Communication Technology has no website. So, they assign me to made it. It was a website for my division. It had 1 role, Admin. Admin can add news and events about my division. It was used to introduce my division to the public. I was acting as Full Stack Developer. I used PHP, HTML and CSS to made that website.',
     }
   ];
 
