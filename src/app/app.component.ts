@@ -10,7 +10,7 @@ import {RouterModule} from '@angular/router';
   template: `
   <main>
     <div id="header">
-    <h1>Profil Agung Ramadhan</h1>
+    <h1>Agung Ramadhan's Profile</h1>
     <ul>
         <li><a [routerLink]="['/project']" >Project</a></li>
         <li><a [routerLink]="['/']" >Home</a></li>        
