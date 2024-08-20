@@ -1,5 +1,5 @@
 <div id="searchBar">
-      <input type="text" placeholder="Cari Proyek" #filter>
+      <input type="text" placeholder="Search for project" #filter>
       <button class="primary" type="button" (click)="filterResults(filter.value)">Search</button>
 </div> 
 <app-data-proyek *ngFor="let data_proyek of filteredproyek" [data_proyek]="data_proyek"></app-data-proyek>
