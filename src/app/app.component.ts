@@ -12,8 +12,8 @@ import {RouterModule} from '@angular/router';
     <div id="header">
     <h1>Profil Agung Ramadhan</h1>
     <ul>
-        <li><a [routerLink]="['/proyek']" >Proyek</a></li>
-        <li><a [routerLink]="['/']" >Beranda</a></li>        
+        <li><a [routerLink]="['/project']" >Project</a></li>
+        <li><a [routerLink]="['/']" >Home</a></li>        
     </ul>
     </div>
     <section>
